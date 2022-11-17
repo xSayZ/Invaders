@@ -1,0 +1,42 @@
+<TextureAtlas imagePath="sheet.png">
+	<SubTexture name="playerShip1.png" x="0" y="0" width="8" height="16"/>
+	<SubTexture name="playerShip2.png" x="8" y="0" width="8" height="16"/>
+	<SubTexture name="playerShip3.png" x="16" y="0" width="8" height="16"/>
+	<SubTexture name="greenEnemy1.png" x="24" y="0" width="8" height="8"/>
+	<SubTexture name="greenEnemy2.png" x="24" y="8" width="8" height="8"/>
+	<SubTexture name="orangeEnemy1.png" x="32" y="0" width="8" height="8"/>
+	<SubTexture name="orangeEnemy2.png" x="32" y="8" width="8" height="8"/>
+	<SubTexture name="redEnemy1.png" x="40" y="0" width="8" height="8"/>
+	<SubTexture name="redEnemy1.png" x="40" y="8" width="8" height="8"/>
+	<SubTexture name="cyanEnemy1.png" x="48" y="0" width="8" height="8"/>
+	<SubTexture name="cyanEnemy2.png" x="48" y="8" width="8" height="8"/>
+	<SubTexture name="yellowEnemy1.png" x="56" y="0" width="8" height="8"/>
+	<SubTexture name="yellowEnemy2.png" x="56" y="8" width="8" height="8"/>
+	<SubTexture name="pinkEnemy1.png" x="64" y="0" width="8" height="8"/>
+	<SubTexture name="pinkEnemy2.png" x="64" y="8" width="8" height="8"/>
+	<SubTexture name="purpleEnemy1.png" x="72" y="0" width="8" height="8"/>
+	<SubTexture name="purpleEnemy2.png" x="72" y="8" width="8" height="8"/>
+	<SubTexture name="blueEnemy1.png" x="80" y="0" width="8" height="8"/>
+	<SubTexture name="blueEnemy2.png" x="80" y="8" width="8" height="8"/>
+
+	<SubTexture name="greenLargeEnemy.png" x="24" y="16" width="16" height="16"/>
+	<SubTexture name="yellowLargeEnemy.png" x="40" y="16" width="16" height="16"/>
+	<SubTexture name="cyanLargeEnemy.png" x="56" y="16" width="16" height="16"/>
+	<SubTexture name="purpleLargeEnemy.png" x="72" y="16" width="16" height="16"/>
+
+	<SubTexture name="largeAsteroid1.png" x="88" y="0" width="16" height="16"/>
+	<SubTexture name="largeAsteroid2.png" x="104" y="0" width="16" height="16"/>
+	<SubTexture name="largeAsteroid3.png" x="88" y="16" width="16" height="8"/>
+	<SubTexture name="smallAsteroid1.png" x="120" y="0" width="8" height="8"/>
+	<SubTexture name="smallAsteroid1.png" x="128" y="8" width="8" height="8"/>
+
+	<SubTexture name="playerShipProjectile.png" x="0" y="16" width="8" height="8"/>
+	<SubTexture name="enemyShipProjectile.png" x="16" y="16" width="8" height="8"/>
+
+	<SubTexture name="stageOneExplosion" x="16" y="16" width="8" height="8"/>
+	<SubTexture name="stageTwoExplosion" x="16" y="24" width="8" height="8"/>
+	<SubTexture name="stageThreeExplosion" x="16" y="32" width="8" height="8"/>
+
+	<SubTexture name="bomb.png" x="32" y="48" width="8" height="8"/>
+	<SubTexture name="heart.png" x="32" y="56" width="8" height="8"/>
+</TextureAtlas>

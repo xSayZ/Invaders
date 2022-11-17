@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "4ts6WkonXIojFFT5yImyOTupwSRFTLORInDrmSGEcXbkyicBzF35ur6KgymAOddhWVieiOdNYgX2v33P9yUslQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Felix\\Pictures\\Invader_Omexamination\\Invader_Omexamination\\Invader_Omexamination.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Felix\\.nuget\\packages\\csfml\\2.5.0\\csfml.2.5.0.nupkg.sha512",
+    "C:\\Users\\Felix\\.nuget\\packages\\sfml.audio\\2.5.0\\sfml.audio.2.5.0.nupkg.sha512",
+    "C:\\Users\\Felix\\.nuget\\packages\\sfml.graphics\\2.5.0\\sfml.graphics.2.5.0.nupkg.sha512",
+    "C:\\Users\\Felix\\.nuget\\packages\\sfml.net\\2.5.0\\sfml.net.2.5.0.nupkg.sha512",
+    "C:\\Users\\Felix\\.nuget\\packages\\sfml.system\\2.5.0\\sfml.system.2.5.0.nupkg.sha512",
+    "C:\\Users\\Felix\\.nuget\\packages\\sfml.window\\2.5.0\\sfml.window.2.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
